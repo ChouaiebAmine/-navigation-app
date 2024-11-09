@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Navigation-App",
+			"path": "../Navigation-App"
+		},
+		{
+			"name": "-navigation-app",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
